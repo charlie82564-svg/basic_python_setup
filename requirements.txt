@@ -1,0 +1,7 @@
+# Essential packages for Python scripting
+requests>=2.31.0        # HTTP library for API calls
+pandas>=2.1.0          # Data manipulation and analysis
+python-dotenv>=1.0.0   # Environment variable management
+pytest>=7.4.0          # Testing framework
+black>=23.0.0          # Code formatter
+flake8>=6.1.0          # Code linter
