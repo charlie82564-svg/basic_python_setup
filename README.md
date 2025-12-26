@@ -10,6 +10,7 @@ A beginner-friendly repository to get started with Python scripting and virtual 
 # Activate it:
 source .venv/bin/activate
 
+
 # Install packages:
 pip install -r requirements.txt
 ```
